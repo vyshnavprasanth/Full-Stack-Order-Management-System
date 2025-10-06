@@ -18,15 +18,22 @@ Full Stack Order Management System
 - Efficient database access via Spring Data JPA
 - Secure and scalable deployment with Nginx and Docker
 
-# 📁 Project Structure
+# 🛠️ Tech Stack
 
-├── backend/ # Spring Boot backend
-│ ├── src/
-│ └── Dockerfile
-├── frontend/ # React frontend
-│ ├── src/
-│ └── Dockerfile
-├── nginx/
-│ └── default.conf # Nginx config
-├── docker-compose.yml # Multi-container setup
-└── README.md
+| Layer     | Technology     |
+|-----------|----------------|
+| Frontend  | React, Axios   |
+| Backend   | Spring Boot, Spring Data JPA |
+| Database  | MySQL          |
+| Proxy     | Nginx          |
+| DevOps    | Docker, Docker Compose |
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+- Docker & Docker Compose installed
+- Git installed
+
+### Clone the Repository
+
