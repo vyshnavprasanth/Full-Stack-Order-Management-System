@@ -36,4 +36,12 @@ Full Stack Order Management System
 - Git installed
 
 ### Clone the Repository
+git@github.com:vyshnavprasanth/Full-Stack-Order-Management-System.git
+
+### Run the Application
+docker-compose up --build -d
+
+### Access the application:
+
+Frontend: http://localhost:3000
 
